@@ -1,12 +1,12 @@
 Node.js rapid deployment on Heroku
 =================================  
-*1.下載及安裝 heroku-toolbelt.exe    
+1.下載及安裝 heroku-toolbelt.exe    
     https://devcenter.heroku.com/articles/getting-started-with-nodejs#set-up  
     
-*2.安裝git  
+2.安裝git  
     https://git-scm.com/downloads  
     
-*3.打開cmd輸入  
+3.打開cmd輸入  
     $heroku login  
     Enter your Heroku credentials.  
     Email: zeke@example.com  
