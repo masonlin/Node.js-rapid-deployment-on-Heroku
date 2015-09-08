@@ -23,7 +23,7 @@
 >    
 >5.在git app裡確認package.json  
 >>  若不存在則建立package.json檔  
-  ``{  
+  `{  
     "name": "testnode",  
     "version": "0.0.1",  
     "main": "node_express_test.js",  
@@ -34,7 +34,7 @@
         "node": "0.12.7",  
         "npm": "2.11.3"  
     }  
-  }``  
+  }`  
 >>  /\*註:node --version及npm --version取得版號\*/  
 >    
 >6.在git app裡確認Procfile檔  
@@ -67,7 +67,7 @@
 >>  $ heroku logs  
 >    
 >15.注意程式邏輯  
-  ``var server = app.listen(process.env.PORT || 3000, function(){  
+  `var server = app.listen(process.env.PORT || 3000, function(){  
     console.log('listening on', server.address().port);  
-  });``  
+  });` 
   
