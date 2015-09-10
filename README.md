@@ -72,5 +72,5 @@ Node.js rapid deployment on Heroku
 	}); 
 
 16.修改已上傳的apps  
-  $ heroku git:clone -a mason-restful
+  $ heroku git:clone -a mason-restful  
   $ cd mason-restful  
