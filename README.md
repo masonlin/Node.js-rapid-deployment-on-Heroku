@@ -70,4 +70,7 @@ Node.js rapid deployment on Heroku
 	var server = app.listen(process.env.PORT || 3000, function(){  
 		console.log('listening on', server.address().port);  
 	}); 
-  
+
+16.修改已上傳的apps
+  $ heroku git:clone -a mason-restful
+  $ cd mason-restful  
