@@ -20,6 +20,7 @@ Node.js rapid deployment on Heroku
     
 5.在git app裡確認package.json  
 >  若不存在則建立package.json檔  
+
 >         {  
 >           "name": "testnode",  
 >           "version": "0.0.1",  
