@@ -33,7 +33,7 @@ Node.js rapid deployment on Heroku
 >             "npm": "2.11.3"  
 >           }  
 >         }
->         /\*註:node --version及npm --version取得版號\*/  
+>         /*註:node --version及npm --version取得版號*/  
     
 6.在git app裡確認Procfile檔  
 > web: node node-js-getting-started  
